@@ -30,9 +30,9 @@ A dynamic and responsive Todo List web application built with EJS (Embedded Java
 
 ## 🌐 Live Demo
 
-**Deploy Link**: [Your Render Deployment URL will go here]
+**Deploy Link**: [https://to-do-list-with-atlas.onrender.com](https://to-do-list-with-atlas.onrender.com)
 
-*Note: The deployment link will be updated once deployed to Render.*
+*✅ Application is now live and deployed on Render!*
 
 ## 🛠️ Technology Stack
 
