@@ -133,10 +133,3 @@ The application correctly implements RESTful HTTP methods:
 
 ---
 
-**Built with ❤️ using EJS, Express.js, MongoDB Atlas, and modern web technologies**
-2. Create a new issue with detailed information
-3. Contact the development team
-
----
-
-**Built with ❤️ using EJS, Express.js, and modern web technologies**
