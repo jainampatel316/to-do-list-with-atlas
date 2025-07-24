@@ -95,9 +95,3 @@ MONGODB_URI=mongodb://localhost:27017/todoapp
 - ❌ Your IP address is not allowed
 - ✅ Add your IP to Network Access in Atlas
 - ✅ Or temporarily allow all IPs (0.0.0.0/0) for testing
-
-## Need Help?
-
-1. **MongoDB Atlas Tutorial:** https://youtu.be/QyYMvdFwBKA?si=5KHrrSO4VSZZus0F
-2. **Deployment Tutorial:** https://youtu.be/tNpoc86cHrQ?si=EeMCQBl7YO2bWrdE
-3. **Check the DEPLOYMENT.md file for detailed steps**
